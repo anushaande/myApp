@@ -1,0 +1,12 @@
+C:\WorkStation\GitLocalRepo\myApp
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=myApp
+--content-root=C:\WorkStation\GitLocalRepo\myApp
+--file=C:\WorkStation\GitLocalRepo\myApp\Views\Home\About.cshtml
+--file=C:\WorkStation\GitLocalRepo\myApp\Views\Home\Contact.cshtml
+--file=C:\WorkStation\GitLocalRepo\myApp\Views\Home\Index.cshtml
+--file=C:\WorkStation\GitLocalRepo\myApp\Views\Shared\Error.cshtml
+--file=C:\WorkStation\GitLocalRepo\myApp\Views\Shared\_Layout.cshtml
+--file=C:\WorkStation\GitLocalRepo\myApp\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\WorkStation\GitLocalRepo\myApp\Views\_ViewImports.cshtml
+--file=C:\WorkStation\GitLocalRepo\myApp\Views\_ViewStart.cshtml
